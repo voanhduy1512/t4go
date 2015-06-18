@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/russross/blackfriday"
 	"net/http"
 	"os"
+	"t4go/Godeps/_workspace/src/github.com/russross/blackfriday"
 )
 
 func main() {
